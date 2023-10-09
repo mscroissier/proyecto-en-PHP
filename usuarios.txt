@@ -1,0 +1,8 @@
+Fernando, admin
+Soldado, admin
+Matias, admin
+Juan, user
+Pepe, user
+Ana, user
+Gines, user
+Matilde, user
